@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <MultiSelectListPreference
+            android:key="mslp_key"
+            android:title="MultiSelectListPreference"
+            android:entries="@array/mslp_entries"
+            android:entryValues="@array/mslp_entry_values"
+            android:defaultValue="@array/mslp_default_value"
+            android:persistent="true"
+            />
+</PreferenceScreen>
