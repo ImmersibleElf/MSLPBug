@@ -3,6 +3,7 @@
 <resources>
 
     <string-array name="mslp_entries">
+        <item>Entry 00</item>
         <item>Entry 01</item>
         <item>Entry 02</item>
         <item>Entry 03</item>
@@ -17,10 +18,10 @@
         <item>Entry 12</item>
         <item>Entry 13</item>
         <item>Entry 14</item>
-        <item>Entry 15</item>
     </string-array>
 
     <string-array name="mslp_entry_values">
+        <item>0</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
@@ -35,10 +36,10 @@
         <item>12</item>
         <item>13</item>
         <item>14</item>
-        <item>15</item>
     </string-array>
 
     <string-array name="mslp_default_value">
+        <item>0</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
@@ -53,7 +54,6 @@
         <item>12</item>
         <item>13</item>
         <item>14</item>
-        <item>15</item>
     </string-array>
 
 </resources>
