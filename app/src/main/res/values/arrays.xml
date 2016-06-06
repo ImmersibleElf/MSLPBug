@@ -56,4 +56,58 @@
         <item>14</item>
     </string-array>
 
+    <string-array name="mslp_fix_entries">
+        <item>Entry 00</item>
+        <item>Entry 01</item>
+        <item>Entry 02</item>
+        <item>Entry 03</item>
+        <item>Entry 04</item>
+        <item>Entry 05</item>
+        <item>Entry 06</item>
+        <item>Entry 07</item>
+        <item>Entry 08</item>
+        <item>Entry 09</item>
+        <item>Entry 10</item>
+        <item>Entry 11</item>
+        <item>Entry 12</item>
+        <item>Entry 13</item>
+        <item>Entry 14</item>
+    </string-array>
+
+    <string-array name="mslp_fix_entry_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+    </string-array>
+
+    <string-array name="mslp_fix_default_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+    </string-array>
+
 </resources>

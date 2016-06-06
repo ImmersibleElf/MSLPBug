@@ -11,4 +11,12 @@
             android:defaultValue="@array/mslp_default_value"
             android:persistent="true"
             />
+        <com.immersibleelf.mslpbug.MultiSelectListPreferenceFix
+            android:key="mslp_fix_key"
+            android:title="MultiSelectListPreferenceFix"
+            android:entries="@array/mslp_fix_entries"
+            android:entryValues="@array/mslp_fix_entry_values"
+            android:defaultValue="@array/mslp_fix_default_value"
+            android:persistent="true"
+            />
 </PreferenceScreen>
